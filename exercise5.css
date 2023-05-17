@@ -1,0 +1,59 @@
+.tahoma {
+  font-family: Tahoma;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.html-css {
+  font-family: Verdana;
+}
+.css {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+.pro {
+  color: grey;
+  margin-top: 0px;
+}
+.course {
+  width: 300px;
+}
+.started {
+  background-color: green;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+.biggest {
+  font-family: Arial;
+}
+.deals {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.sales {
+  margin-top: 5px;
+  font-size: 28px;
+  font-style: italic;
+  color: red;
+}
+
+.shopping {
+  text-align: center;
+  font-family: Arial;
+}
+.business {
+  font-size: 35px;
+  font-weight: bold;
+}
+.apple {
+  font-size: 16px;
+}
+.learn {
+  color: blue;
+  cursor: pointer;
+}
